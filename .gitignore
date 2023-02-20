@@ -1,0 +1,5 @@
+ffmpeg.exe
+*.pyc
+*.th
+*.onnx
+*.pth
