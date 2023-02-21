@@ -19,7 +19,6 @@ opencv-python==4.6.0.66
 onnx
 onnxruntime==1.13.1
 Pillow==9.3.0
-pip==22.2.2
 playsound==1.3.0
 psutil==5.9.4
 pydub==0.25.1
