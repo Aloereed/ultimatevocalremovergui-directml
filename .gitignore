@@ -1,2 +1,4 @@
 *.pth
 *.exe
+*.pyc
+*.onnx

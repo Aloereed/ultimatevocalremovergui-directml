@@ -175,7 +175,7 @@ class SeperateAttributes:
 
             if self.is_gpu_conversion >= 0:
                 self.is_gpu = True
-                self.device, self.run_type = self.device = dml, ['CPUExecutionProvider']
+                self.device, self.run_type = dml, ['DmlExecutionProvider']
             else:
                 self.is_gpu = False
                 self.device, self.run_type = torch.device('cpu'), ['CPUExecutionProvider']
