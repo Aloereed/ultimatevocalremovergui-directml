@@ -1,7 +1,9 @@
 # Ultimate Vocal Remover GUI v5.6 for DirectML
 
-Forked from [anjok07/ultimatevocalremovergui](https://github.com/anjok07/ultimatevocalremovergui).
+Forked from [anjok07/ultimatevocalremovergui](https://github.com/anjok07/ultimatevocalremovergui).  
 
+As of the current version (v5.6), AMD and Intel graphics cards are officially supported, go here [download](https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/UVR_v5.6.0_ setup_opencl.exe).  
+从当前版本（v5.6）开始，AMD和Intel显卡已经被官方支持，请到这里[下载](https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/UVR_v5.6.0_setup_opencl.exe)。
 ## Requirements
 + A DirectML-supported GPU(Intel Arc/AMD/nVidia)
 + Windows 11 64 Bit + Python 3.10
